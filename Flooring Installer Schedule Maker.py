@@ -62,5 +62,4 @@ def create_installers(installers):
 
     return installers  # return installers' data to main
 
-
 main()  # return to main
