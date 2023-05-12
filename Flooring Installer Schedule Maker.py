@@ -42,7 +42,7 @@ def main():  # main function
 
         # subtract number of jobs after each iteration of the loop
         number_of_jobs -= 1
-
+ 
 
 # Create a dictionary to store the installer and their flooring type
 def create_installers(installers):
