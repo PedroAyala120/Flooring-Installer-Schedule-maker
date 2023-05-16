@@ -39,7 +39,7 @@ def main():  # main function
             if flooring_type in flooring_types:
                 print(f"Job assigned to {installer}. Estimated completion time: {total_time} days")
                 break
-
+ 
         # subtract number of jobs after each iteration of the loop
         number_of_jobs -= 1
  
