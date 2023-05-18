@@ -12,7 +12,7 @@ def main():  # main function
         "carpet": (1, 1 / 250),
         "baseboard": 1
     }
-    
+     
     installers = {}  # initialize installers dictionary
 
     create_installers(installers)  # call function to create library of installers
